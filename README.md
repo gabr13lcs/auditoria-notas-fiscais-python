@@ -1,12 +1,12 @@
 # 🧾 Auditoria de Notas Fiscais com Python e Power BI
 
-> Pipeline de dados end-to-end para detecção automática de inconsistências em notas fiscais, com dashboard analítico para monitoramento de riscos financeiros por fornecedor — inspirado em um problema real do varejo.
+> Pipeline de dados end-to-end para detecção automática de inconsistências em notas fiscais, com dashboard analítico para monitoramento de riscos financeiros por fornecedor, inspirado em um problema real do varejo.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Trabalhar no varejo expõe um problema silencioso: notas fiscais com erros passam despercebidas e geram prejuízo financeiro difícil de rastrear. Duplicatas pagas em dobro, valores divergentes do pedido, itens entregues a mais — cada um desses erros representa dinheiro em risco.
+Trabalhar no varejo expõe um problema silencioso: notas fiscais com erros passam despercebidas e geram prejuízo financeiro difícil de rastrear. Duplicatas pagas em dobro, valores divergentes do pedido, itens entregues a mais, cada um desses erros representa dinheiro em risco.
 
 Este projeto nasceu dessa observação e replica um sistema de auditoria fiscal do zero: geração de notas sintéticas com erros intencionais, validação automática via Python com pandas, e um dashboard Power BI que transforma os dados em decisões — mostrando onde está o risco, quanto custa e quem são os fornecedores que mais geram problemas.
 
