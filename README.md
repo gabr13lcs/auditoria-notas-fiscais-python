@@ -8,7 +8,7 @@
 
 Trabalhar no varejo expõe um problema silencioso: notas fiscais com erros passam despercebidas e geram prejuízo financeiro difícil de rastrear. Duplicatas pagas em dobro, valores divergentes do pedido, itens entregues a mais, cada um desses erros representa dinheiro em risco.
 
-Este projeto nasceu dessa observação e replica um sistema de auditoria fiscal do zero: geração de notas sintéticas com erros intencionais, validação automática via Python com pandas, e um dashboard Power BI que transforma os dados em decisões — mostrando onde está o risco, quanto custa e quem são os fornecedores que mais geram problemas.
+Este projeto nasceu dessa observação e replica um sistema de auditoria fiscal do zero: geração de notas sintéticas com erros intencionais, validação automática via Python com pandas, e um dashboard Power BI que transforma os dados em decisões, mostrando onde está o risco, quanto custa e quem são os fornecedores que mais geram problemas.
 
 ---
 
@@ -234,7 +234,9 @@ python validar_dados.py
 ## 👤 Autor
 
 **Gabriel Silva Costa** — Estudante de Arquitetura de Dados — Anhanguera  
-📧 gabr13lc0stah@gmail.com · 📍 São Luís – MA · 🔗 [github.com/gabr13lcs](https://github.com/gabr13lcs)
+📧 gabr13lc0stah@gmail.com · 📍 São Luís – MA
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-br/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gabr13lcs)
 
 ---
 
