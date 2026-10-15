@@ -234,8 +234,9 @@ python validar_dados.py
 ## 👤 Autor
 
 **Gabriel Silva Costa** — Estudante de Arquitetura de Dados — Anhanguera  
-📧 gabr13lc0stah@gmail.com · 📍 São Luís – MA
+ 📍São Luís – MA
 
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabr13lc0stah@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-br/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gabr13lcs)
 
