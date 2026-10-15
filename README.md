@@ -234,8 +234,7 @@ python validar_dados.py
 ## 👤 Autor
 
 **Gabriel Silva** — Estudante de Arquitetura de Dados 
-
- 📍São Luís – MA
+📍São Luís – MA
 
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabr13lc0stah@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-br/)
